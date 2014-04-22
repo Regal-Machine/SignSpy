@@ -1,0 +1,7 @@
+name: SignSpy
+version: 1.0.0
+author: REGAL_MACHINE
+main: me.RegalMachine.SignSpy.SignSpy
+commands:
+  signspy:
+    description: Toggles Signspy
